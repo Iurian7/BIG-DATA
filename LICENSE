@@ -20,5 +20,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ------------------
-Exception: the file `initializer.sql` is not covered by this license.
+Exception: the file `act_code_1/initialize.sql` is not covered by this license.
 and is included here for educational/reference purposes only. All rights to that file remain with its original author.
