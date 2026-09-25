@@ -1,4 +1,8 @@
-  -- ============================================
+-- NOTE: This file is NOT covered by the repository's MIT license.
+-- Original code provided by Raoni Kulesza for Big Data.
+-- Included for educational/reference purposes only; all rights reserved to the author.
+
+-- ============================================
   -- SETUP COMPLETO: loja_online
   -- Execute este bloco inteiro no SQL Editor
   -- ============================================
